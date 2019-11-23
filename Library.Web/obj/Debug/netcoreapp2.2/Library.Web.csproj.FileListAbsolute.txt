@@ -13,3 +13,4 @@ C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library
 C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library.Web.RazorTargetAssemblyInfo.cache
 C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library.Web.dll
 C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library.Web.pdb
+C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library.Web.csprojAssemblyReference.cache

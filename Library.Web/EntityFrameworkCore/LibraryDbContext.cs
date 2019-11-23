@@ -18,7 +18,21 @@ namespace Library.Web.EntityFrameworkCore
         public LibraryDbContext(DbContextOptions<LibraryDbContext> options)
             : base(options)
         {
-        }
 
+        }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Customer>().HasData(new Customer { FirstName = "Harry", LastName = "Potter", Id = 1 });
+            modelBuilder.Entity<Customer>().HasData(new Customer { FirstName = "Ronald", LastName = "Weasley", Id = 2 });
+            modelBuilder.Entity<Customer>().HasData(new Customer { FirstName = "Hermione", LastName = "Granger", Id = 3 });
+
+            var author = new Author { FirstName = "Joanne", LastName = "Rowling", Id = 1 };
+
+            modelBuilder.Entity<Author>().HasData(author);
+
+            modelBuilder.Entity<Book>().HasData(new Book { Id = 1, Title = "Harry potter och de vises sten", Description = $"Första boken i Harry Potter serien", AuthorId = author.Id});
+
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }
