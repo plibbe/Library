@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Library.Web",
+    "\\Library.Web\\bin",
+    "\\Library.Web\\bin\\Debug",
+    "\\Library.Web\\bin\\Debug\\netcoreapp3.0",
+    "\\Library.Web\\bin\\Release",
+    "\\Library.Web\\bin\\Release\\netcoreapp3.0",
+    "\\Library.Web\\Controllers",
+    "\\Library.Web\\Properties"
+  ],
+  "SelectedNode": "\\Solution1.sln",
+  "PreviewInSolutionExplorer": false
+}
