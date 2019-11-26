@@ -12,7 +12,8 @@ namespace Library.Web.Entities
         [Key]
         public int Id { get; set; }
         public ICollection<Book> Books { get; set; }
-        [ForeignKey("GuestId")]
+        [ForeignKey("CustomerId")]
+        public int CustomerId { get; set; }
         public Customer Customer { get; set; }
         public DateTime ReservedAt { get; set; }
         public DateTime ReservedTo { get; set; }
