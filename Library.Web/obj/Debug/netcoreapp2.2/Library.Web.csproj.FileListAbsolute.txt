@@ -1,0 +1,16 @@
+C:\Users\Philip\source\repos\Library\Library.Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Philip\source\repos\Library\Library.Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Philip\source\repos\Library\Library.Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Philip\source\repos\Library\Library.Web\bin\Debug\netcoreapp2.2\Library.Web.deps.json
+C:\Users\Philip\source\repos\Library\Library.Web\bin\Debug\netcoreapp2.2\Library.Web.runtimeconfig.json
+C:\Users\Philip\source\repos\Library\Library.Web\bin\Debug\netcoreapp2.2\Library.Web.runtimeconfig.dev.json
+C:\Users\Philip\source\repos\Library\Library.Web\bin\Debug\netcoreapp2.2\Library.Web.dll
+C:\Users\Philip\source\repos\Library\Library.Web\bin\Debug\netcoreapp2.2\Library.Web.pdb
+C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library.Web.RazorAssemblyInfo.cache
+C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library.Web.RazorAssemblyInfo.cs
+C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library.Web.AssemblyInfoInputs.cache
+C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library.Web.AssemblyInfo.cs
+C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library.Web.dll
+C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library.Web.pdb
+C:\Users\Philip\source\repos\Library\Library.Web\obj\Debug\netcoreapp2.2\Library.Web.csprojAssemblyReference.cache
