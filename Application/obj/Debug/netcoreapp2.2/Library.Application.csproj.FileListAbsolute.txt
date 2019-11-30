@@ -1,0 +1,11 @@
+C:\Users\Philip\source\repos\Library\Application\bin\Debug\netcoreapp2.2\Library.Application.deps.json
+C:\Users\Philip\source\repos\Library\Application\bin\Debug\netcoreapp2.2\Library.Application.dll
+C:\Users\Philip\source\repos\Library\Application\bin\Debug\netcoreapp2.2\Library.Application.pdb
+C:\Users\Philip\source\repos\Library\Application\bin\Debug\netcoreapp2.2\Library.Domain.dll
+C:\Users\Philip\source\repos\Library\Application\bin\Debug\netcoreapp2.2\Library.Domain.pdb
+C:\Users\Philip\source\repos\Library\Application\obj\Debug\netcoreapp2.2\Library.Application.csprojAssemblyReference.cache
+C:\Users\Philip\source\repos\Library\Application\obj\Debug\netcoreapp2.2\Library.Application.AssemblyInfoInputs.cache
+C:\Users\Philip\source\repos\Library\Application\obj\Debug\netcoreapp2.2\Library.Application.AssemblyInfo.cs
+C:\Users\Philip\source\repos\Library\Application\obj\Debug\netcoreapp2.2\Library.Application.csproj.CopyComplete
+C:\Users\Philip\source\repos\Library\Application\obj\Debug\netcoreapp2.2\Library.Application.dll
+C:\Users\Philip\source\repos\Library\Application\obj\Debug\netcoreapp2.2\Library.Application.pdb

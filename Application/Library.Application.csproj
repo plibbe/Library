@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Authors\Commands\" />
+    <Folder Include="Authors\Queries\" />
+    <Folder Include="Books\Commands\" />
+    <Folder Include="Books\Queries\" />
+    <Folder Include="Customers\Commands\" />
+    <Folder Include="Customers\Queries\" />
+    <Folder Include="Reservations\Commands\" />
+    <Folder Include="Reservations\Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Library.Domain\Library.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
