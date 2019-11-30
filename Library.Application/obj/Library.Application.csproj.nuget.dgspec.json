@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Philip\\source\\repos\\Library\\Application\\Library.Application.csproj": {}
+    "C:\\Users\\Philip\\source\\repos\\Library\\Library.Application\\Library.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Philip\\source\\repos\\Library\\Application\\Library.Application.csproj": {
+    "C:\\Users\\Philip\\source\\repos\\Library\\Library.Application\\Library.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Philip\\source\\repos\\Library\\Application\\Library.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Philip\\source\\repos\\Library\\Library.Application\\Library.Application.csproj",
         "projectName": "Library.Application",
-        "projectPath": "C:\\Users\\Philip\\source\\repos\\Library\\Application\\Library.Application.csproj",
+        "projectPath": "C:\\Users\\Philip\\source\\repos\\Library\\Library.Application\\Library.Application.csproj",
         "packagesPath": "C:\\Users\\Philip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Philip\\source\\repos\\Library\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Philip\\source\\repos\\Library\\Library.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

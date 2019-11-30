@@ -906,29 +906,6 @@
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
-      },
-      "Library.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "dependencies": {
-          "Library.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Library.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Library.Application.dll": {}
-        }
-      },
-      "Library.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "compile": {
-          "bin/placeholder/Library.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Library.Domain.dll": {}
-        }
       }
     }
   },
@@ -3480,21 +3457,10 @@
         "system.threading.tasks.4.0.11.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
-    },
-    "Library.Application/1.0.0": {
-      "type": "project",
-      "path": "../Application/Library.Application.csproj",
-      "msbuildProject": "../Application/Library.Application.csproj"
-    },
-    "Library.Domain/1.0.0": {
-      "type": "project",
-      "path": "../Library.Domain/Library.Domain.csproj",
-      "msbuildProject": "../Library.Domain/Library.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Library.Application >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 2.2.6",
       "Microsoft.EntityFrameworkCore.Relational >= 2.2.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.2.6",
@@ -3533,11 +3499,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {
-            "C:\\Users\\Philip\\source\\repos\\Library\\Application\\Library.Application.csproj": {
-              "projectPath": "C:\\Users\\Philip\\source\\repos\\Library\\Application\\Library.Application.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
