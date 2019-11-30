@@ -1,0 +1,13 @@
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Infrastructure.deps.json
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Infrastructure.dll
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Infrastructure.pdb
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Application.dll
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Domain.dll
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Application.pdb
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Domain.pdb
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\obj\Debug\netcoreapp2.2\Library.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\obj\Debug\netcoreapp2.2\Library.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\obj\Debug\netcoreapp2.2\Library.Infrastructure.AssemblyInfo.cs
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\obj\Debug\netcoreapp2.2\Library.Infrastructure.csproj.CopyComplete
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\obj\Debug\netcoreapp2.2\Library.Infrastructure.dll
+C:\Users\Philip\source\repos\Library\Library.Infrastructure\obj\Debug\netcoreapp2.2\Library.Infrastructure.pdb
