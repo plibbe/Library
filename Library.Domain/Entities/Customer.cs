@@ -4,13 +4,9 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Library.Web.Entities
+namespace Library.Domain.Entities
 {
-    public class Customer : IPerson
+    public class Customer : Person
     {
-        [Key]
-        public int Id { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
     }
 }
