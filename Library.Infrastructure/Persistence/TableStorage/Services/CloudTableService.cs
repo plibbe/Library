@@ -8,16 +8,12 @@ namespace Library.Infrastructure.Persistence.TableStorage.Services
 {
     internal class CloudTableService
     {
-        public static async Task<CloudTable> GetTable(string tableName)
+        public static CloudTable GetTable(string tableName)
         {
-            var connectionString = Environment.GetEnvironmentVariable("AzureTableConnectionString");
-            // Retrieve storage account information from connection string.
-            CloudStorageAccount storageAccount = StorageAccountService.GetStorageAccountFromConnectionString(connectionString);
+            CloudStorageAccount storageAccount = StorageAccountService.GetStorageAccountFromConnectionString(Environment.GetEnvironmentVariable("AzureTableConnectionString"));
 
-            // Create a table client for interacting with the table service
             CloudTableClient tableClient = storageAccount.CreateCloudTableClient(new TableClientConfiguration());
 
-            // Create a table client for interacting with the table service 
             return tableClient.GetTableReference(tableName);
 
         }
